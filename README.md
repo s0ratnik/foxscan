@@ -80,8 +80,4 @@ This tool is intended for security testing with proper authorization. Always ens
 
 ## License
 
-[Insert your license information here]
-
-## Contributing
-
-[Insert contribution guidelines here] foxscan
+By contributing, you agree that your contributions will be licensed under its MIT License.
